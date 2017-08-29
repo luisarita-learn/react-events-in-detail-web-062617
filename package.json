@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha -w test/helpers.js test/*.js"
+  },
+  "dependencies": {
+    "mocha-multi": "^0.11.0"
+  }
+}
